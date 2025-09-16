@@ -12,8 +12,6 @@ This project is an Excel-based Bank Loan Report Dashboard created to analyze and
 
 ### 📈 Features / Dashboards
 #### 🔹 Dashboard 1: Summary
-
-KPIs:
 - Total Loan Applications (with MTD & MoM)
 - Total Funded Amount (with MTD & MoM)
 - Total Amount Received (with MTD & MoM)
