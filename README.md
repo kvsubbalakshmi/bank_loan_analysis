@@ -30,7 +30,12 @@ This project is an Excel-based Bank Loan Report Dashboard created to analyze and
 #### 🔹 Dashboard 3: Details
 - Detailed view of all loan records with borrower and loan performance data
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 - Excel (Power Query, Pivot Tables, Charts, Slicers)
 - Data Cleaning & Transformation within Excel
 - Visualization: Line, Bar, Donut, Funnel, Tree Map, Grid Views
+
+### Dashboards
+![Dashboard Preview](./Summary%20Dashboard.png)
+
+![Dashboard Preview](./Overview%20Dashboard.png)
