@@ -34,7 +34,7 @@ This dashboard solves the problem by providing summary KPIs, trend analysis, reg
 ### 🛠️ Tech Stack
 - Excel (Power Query, Pivot Tables, Charts, Slicers)
 - Data Cleaning & Transformation within Excel
-- Visualization: Line, Bar, Donut, Funnel, Tree Map, Grid Views
+- Visualization: Line, Bar, Donut, Tree Map, Grid Views
 
 ### Dashboards
 ![Dashboard Preview](./Summary%20Dashboard.png)
