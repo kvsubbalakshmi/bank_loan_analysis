@@ -4,11 +4,12 @@
 This project is an Excel-based Bank Loan Report Dashboard created to analyze and monitor lending activities. It provides insights into key loan metrics, good vs. bad loan performance, and borrower trends. The goal is to help banks make data-driven decisions, track portfolio health, and identify lending patterns.
 
 ### 🚀 Business Problem
-- Banks need to monitor loan applications, funded amounts, repayments, and borrower financial health. Without proper reporting, it’s difficult to:
+Banks need to monitor loan applications, funded amounts, repayments, and borrower financial health. Without proper reporting, it’s difficult to:
 - Track month-to-month changes in loan applications, funded amounts, and repayments
 - Identify risky (bad) loans vs. safe (good) loans
 - Understand borrower behavior across regions, employment history, loan purposes, and home ownership
-- This dashboard solves the problem by providing summary KPIs, trend analysis, regional insights, and detailed borrower breakdowns in one place.
+  
+This dashboard solves the problem by providing summary KPIs, trend analysis, regional insights, and detailed borrower breakdowns.
 
 ### 📈 Features / Dashboards
 #### 🔹 Dashboard 1: Summary
